@@ -1,7 +1,0 @@
-com/gs/cta/entity/CallToAction.class
-com/gs/cta/controller/CtaController$Response.class
-com/gs/cta/entity/CallToAction$CallToActionBuilder.class
-com/gs/cta/CtaApplication.class
-com/gs/cta/dao/CTARepository.class
-com/gs/cta/config/DbConfig.class
-com/gs/cta/controller/CtaController.class
